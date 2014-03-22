@@ -1,0 +1,5 @@
+description du projet:
+detection des matricules des voitures 
+etapes de realisation :
+1-installation et configuration de opencv 
+2-dettection des formes à partir de la cam
